@@ -19,7 +19,6 @@ body {
 .nav-link {
   list-style-type: none;
   display: flex;
-  justify-content: ;
   gap: 10px;
 }
 
